@@ -8,8 +8,8 @@ Estudante de programação no terceiro ano do ensino médio e curso técnico em 
 <div>
 <a href="https://github.com/marloncalegao">
 <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?marloncalegao&layout=compact&langs_count=7&theme=dracula"/>
-<!--<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=marloncalegao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>-->
+<!--<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=marloncalegao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
+</div>
 
 ### Entre em contato comigo:
 <div>
