@@ -1,7 +1,7 @@
 # Marlon Calegão Nascimento
-## Bem-vindo ao meu perfil do GitHub 👋
+## Bem-vindo ao meu perfil do GitHub
 
-<!--**Here are some ideas to get you started:
+**Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
