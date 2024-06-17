@@ -1,4 +1,4 @@
-# Olá, sou Marlon Calegão Nascimento!
+# Olá, sou Marlon!
 
 ### Sobre mim:
 Estudante de programação no terceiro ano do ensino médio e curso técnico em **Desenvolvimento de Sistemas** no Colégio Técnico de Limeira (COTIL).
